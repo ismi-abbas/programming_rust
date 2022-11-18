@@ -1,0 +1,3 @@
+[submodule "mandlebrot"]
+	path = mandlebrot
+	url = https://github.com/ismi-abbas/mandlebrot
